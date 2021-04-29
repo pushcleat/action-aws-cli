@@ -2,5 +2,5 @@
 "description": "AWS CLI for GitHub Actions"
 "name": "awscli"
 "runs":
-  "image": "docker://ghcr.io/pushcleat/action-aws-cli:sha-f5ec055cc4d4aa5b84c2c193630fd7a441544f0a"
+  "image": "docker://ghcr.io/pushcleat/action-aws-cli:sha-8c5c95e24b244ce56e126134669c37584cacf27e"
   "using": "docker"
